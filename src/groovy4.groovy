@@ -8,7 +8,7 @@ class User {
     String lastName
     String email
     int age
-    
+
     String toString() {
         "${firstName} ${lastName} ${email} ${age}"
     }
